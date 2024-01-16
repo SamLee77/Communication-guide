@@ -67,6 +67,9 @@ nav:
     - Lists: Formatting_and_Organization/Lists.md
   - Language and grammar: 
     - Punctuation: Language-and-grammar/Punctuation.md
-  
+  - Working in groups: 
+    - Working_in_groups/index.md
+    - Meetings: Working_in_groups/Meetings.md
+
 copyright: 
   Copyright Sam Lee 2024
