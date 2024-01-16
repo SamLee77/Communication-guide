@@ -74,7 +74,7 @@ Everyone should/could add to the agenda, and the person responsible for the agen
 
 This feedback can be sent via email or other communication channel (like Discord/Slack). It can look like this sample
 
-![Sample agenda communication](..\assets\images\Agenda.PNG)
+![Sample agenda communication](../assets/images/Agenda.PNG)
 
 Key to the communication is to state what is already included, what the roles will be, and the date for any additional agendas items to be added.
 
