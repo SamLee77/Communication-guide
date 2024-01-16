@@ -88,7 +88,7 @@ See what the final agenda looks like below:
 
 ![Sample complete agenda for meeting](../assets/images/Complete_agenda.PNG)
 
-### Agenda Item Explanations
+### Agenda item explanations
 
 1. Approval of Agenda. This is a standard item, so simply copy it as the #1 item for each meeting’s agenda. It allows members to either approve the topics or change them as the first meeting action. Every agenda (including the first one) should have this item first.
 2. Approval of Minutes. This is a standard item, so copy it as the #2 item for each meeting’s agenda. It allows members to change/correct any problems they noticed with the meeting minutes from the last meeting. Every agenda (except the first one) should have this item second.
