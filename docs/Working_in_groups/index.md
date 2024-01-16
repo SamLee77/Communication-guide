@@ -5,7 +5,7 @@ This section will highlight group activities that you can use to evaluate how el
 The activities will include:
 
 - working agreements
-- [team meetings]()
+- [team meetings](../Working_in_groups/Meetings.md)
 - work organisation
 
 The focus of all these activities is for you to try them, and to personally recognize their value for group work.
