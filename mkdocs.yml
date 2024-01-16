@@ -9,7 +9,7 @@ theme:
     - navigation.expand
     - navigation.instant
     - navigation.instant.progress
-    - toc.integrate
+    - navigation.indexes
     - navigation.top
     - search.suggest
     - search.highlight
