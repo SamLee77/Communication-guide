@@ -84,9 +84,10 @@ The person responsible for the agenda should then update the document, share it 
 
 See what the final agenda looks like below:
 
-![Sample complete agenda for meeting](..\assets\images\Complete_agenda.PNG)
+![Sample complete agenda for meeting](../assets/images/Complete_agenda.PNG)
 
 ### Agenda Item Explanations
+
 1. Approval of Agenda. This is a standard item, so simply copy it as the #1 item for each meeting’s agenda. It allows members to either approve the topics or change them as the first meeting action. Every agenda (including the first one) should have this item first.
 2. Approval of Minutes. This is a standard item, so copy it as the #2 item for each meeting’s agenda. It allows members to change/correct any problems they noticed with the meeting minutes from the last meeting. Every agenda (except the first one) should have this item second.
 3. Progress Reports on items from past meeting. List any topics from the past meeting that needed follow up, and what the outcome was.
@@ -113,7 +114,7 @@ The *Recorder* takes notes during a meeting (see sample and instructions).
 
 The Recorder turns the notes (which are commonly like a rough draft) and turns them into minutes within a day of the meeting and sends them to team members. Include the word “Minutes” and the meeting date in the file name.
 
-![Sample meeting minutes](..\assets\images\meeting_minutes.PNG)
+![Sample meeting minutes](../assets/images/meeting_minutes.PNG)
 
 ## Meeting minutes instructions
 
