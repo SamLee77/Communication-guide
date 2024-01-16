@@ -1,6 +1,8 @@
 # Meetings
 
-A team meeting is focused on one topic: **action**.
+!!! Tip
+    
+    A team meeting is focused on one topic: **action**. Actions can be relates to updates, workload, or future work, and the goal is always to create actions for the next part of the project.
 
 During any team meeting, you discuss, decide on, review, and complete project tasks. All these items require action.
 
@@ -14,7 +16,7 @@ You will attend many meetings in your careers, where you will have to show work,
 
 ## What will meetings be about?
 
-meetings are an excellent way to check in with all members about the following:
+Meetings are an excellent way to check in with all members about the following:
 
 - How is the project developing? Progress updates are essential.
 - Are people on track? Make sure the task schedule is being followed.
