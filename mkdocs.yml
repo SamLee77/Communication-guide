@@ -46,7 +46,18 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
-
+nav: 
+  - Communication fundamentals: 
+    - Communication_fundamentals/index.md
+    - Audience: Communication_fundamentals/Audience.md
+    - Purpose: Communication_fundamentals/Purpose.md
+    - Clarity: Communication_fundamentals/Clarity.md
+    - Completeness: Communication_fundamentals/Completeness.md
+    - Conciseness: Communication_fundamentals/Conciseness.md
+    - Correctness: Communication_fundamentals/Correctness.md
+    - Concreteness: Communication_fundamentals/Concreteness.md
+    - Coherence: Communication_fundamentals/Coherence.md
+    - Courtesy: Communication_fundamentals/Courtesy.md
 
 copyright: 
   Copyright Sam Lee 2024
