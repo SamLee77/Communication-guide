@@ -47,6 +47,7 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 nav: 
+  - About this guide: index.md
   - Communication fundamentals: 
     - Communication_fundamentals/index.md
     - Audience: Communication_fundamentals/Audience.md
@@ -58,6 +59,12 @@ nav:
     - Concreteness: Communication_fundamentals/Concreteness.md
     - Coherence: Communication_fundamentals/Coherence.md
     - Courtesy: Communication_fundamentals/Courtesy.md
-
+  - Formatting and organization:
+    - Direct structure: Formatting_and_Organization/Direct-structure.md
+    - Bold: Formatting_and_Organization/Bold.md
+    - Italics: Formatting_and_Organization/italics.md
+    - Headings: Formatting_and_Organization/Headings.md
+    - Lists: Formatting_and_Organization/Lists.md
+    
 copyright: 
   Copyright Sam Lee 2024
