@@ -26,3 +26,19 @@ Here are the conventions used specifically in the guide
 !!! Summary
 
     This admonition, where used, provides summary information, like a key point or idea.
+
+
+    CLEAR – simple explanation and objective
+    CONCISE - no unnecessary words
+    CORRECT - no mistakes in grammar & facts
+    COHERENT - logical flow of content
+    COMPLETE - information comprehensive for reader
+    CREATIVE -brings interest through varied structure & explanations
+    CONSIDERATE – easy to read with bullets, subheads, boldface keywords…
+    CONCRETE - include specifics like numbers, time, date, address…
+    COURTEOUS - avoid commands, demands & “you”
+    CREDIBLE - facts not opinions
+
+    Our writing guidelines include: 
+"Consistent": give similar information in the same way. Use the same words for the same thing. Use the same sentence and section structures for the same types of information.
+"Current": the latest information on the date it was written. Relevant. Up-to-date.
