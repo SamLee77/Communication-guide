@@ -5,6 +5,8 @@
     
     **Your communication must focus on the audience and their needs**.
 
+    **When you write, you must have an intended reader in your mind.**
+
 Imagine you are writing a message, such as a status update on your current project.
 
 Your *first* thoughts might just be to write the message and send it, including everything *you* want to say. That's normal, but not effective.
