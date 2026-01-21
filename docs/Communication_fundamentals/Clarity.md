@@ -44,4 +44,4 @@ Clear communication involves knowing what you want to say before you say it. Oft
 
 Focus on others and their needs while still getting *your* message across.
 
-Your clarity can be poor when you *assume understanding* on the part of the reader or listener. Therefore, when you plan what to write or say, your [audience](Clarity.md) is always central.
+Your clarity can be poor when you *assume understanding* on the part of the reader or listener. Therefore, when you plan what to write or say, your [audience](Audience.md) is always central.
